@@ -1,0 +1,2 @@
+VIEWED = 'OK'
+NOT_VIEWED = "NOT OK"
